@@ -20,7 +20,7 @@ clear all; close all; clc;
 trc_path='traces\';  
 
 % Database (dbc)
-input_dbc = 'ModelS_BDY.dbc';   % ONLY 1 DBC
+input_dbc = 'UW_HS_with_diesel.dbc';   % ONLY 1 DBC
 % someone can make this an arrya containing dbc and bus for multiple dbcs
 
 % Text file listing Messages to log
