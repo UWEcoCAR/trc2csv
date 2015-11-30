@@ -1,0 +1,6 @@
+BCM_Data1
+BCM_Data2
+BCM_Limits
+BCM_Status
+BCM_Request
+BCM_Faults
